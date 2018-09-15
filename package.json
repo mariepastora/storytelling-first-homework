@@ -8,7 +8,7 @@
     "lint": "eslint --fix src/*.js",
     "prettier": "prettier --write 14-chart.js",
     "serve": "parcel src/index.html",
-    "build": "parcel build src/index.html --out-dir docs --public-url /storytelling-first-homework"
+    "build": "parcel build src/index.html --out-dir docs --public-url storytelling-first-homework"
   },
   "repository": {
     "type": "git",
